@@ -16,5 +16,5 @@ main().catch((error) => {
 });
 
 
-// npx run hardhat deploy --network sepolia
+// npx hardhat run ./scripts/deploy.js --network sepolia
 // 0xe2e91dc8e91809580cc1711712b19974b0eade9c
